@@ -1,0 +1,5 @@
+[masters]
+master.example.com
+
+[workers]
+172.31.39.150
